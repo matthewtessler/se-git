@@ -4,5 +4,7 @@ This is a website that has an easily digestible cheat sheet for Big-O notation. 
 
 I'd recommend that anybody who needs to look up efficiencies of data structures, sorting, searching, etc. use Big-O Cheat Sheet. It's a great resource. To get a quick answer with no explanation, it is the best. However, for information about why something is as efficient as it is, it's best to use some other resource online. Or, a textbook!
 
+## Comments:
+
 * I'd also recommend that anybody who needs to look up efficiencies of data structures, sorting, searching, etc. use Big-O Cheat Sheet. It's a great resource. To get a quick answer with no explanation, it is the best. However, for information about why something is as efficient as it is, it's best to use some other resource online. Or, a textbook! It is so useful!
     -STEVE DENG
